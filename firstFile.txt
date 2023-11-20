@@ -1,7 +1,7 @@
 line 1 update
 line 2 update
-line 3
-line 4
+line 3 another update
+line 4 another update
 line 5
 line 6
 line 7
