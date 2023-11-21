@@ -1,0 +1,24 @@
+From eb9f4d7e0d004e09b71a630337ef8760e701d545 Mon Sep 17 00:00:00 2001
+From: Vitali Kalaskou <kolosokvit@gmail.com>
+Date: Mon, 20 Nov 2023 21:47:55 +0300
+Subject: [PATCH 1/2] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index fa2da6e..fae3d0c 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-line 1
+-line 2
++line 1 update
++line 2 update
+ line 3
+ line 4
+ line 5
+-- 
+2.42.0
+
